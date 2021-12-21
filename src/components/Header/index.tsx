@@ -1,7 +1,7 @@
 import {HeaderContainer, HeaderWrapper, UserInfo} from './styles';
 import UserCircle from '../UserCircle';
 
-import logoInter from './../../assests/images/Inter-orange.png';
+import logoInter from './../../assets/images/Inter-orange.png';
 import { useNavigate } from 'react-router-dom';
 
 

@@ -1,8 +1,8 @@
 import {Wrapper, Background, InputContainer, ButtonContainer} from './styles';
 import { useNavigate, Link } from 'react-router-dom';
 
-import background from "./../../assests/images/background-login.jpg";
-import logoInter from './../../assests/images/Inter-orange.png';
+import background from "./../../assets/images/background-login.jpg";
+import logoInter from './../../assets/images/Inter-orange.png';
 
 import Card from '../../components/Card';
 import Input from '../../components/Input';
